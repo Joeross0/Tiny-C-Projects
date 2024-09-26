@@ -1,0 +1,5 @@
+﻿  First Console Application.cpp
+  Calculator.cpp
+C:\Users\thatt\Documents\Github Repos\Tiny C++ Projects\First Console Application\First Console Application\Projects\Calculator.cpp(4,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  First Console Application.vcxproj -> C:\Users\thatt\Documents\Github Repos\Tiny C++ Projects\First Console Application\x64\Debug\First Console Application.exe
